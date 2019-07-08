@@ -2,9 +2,9 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 0.2rem solid $orange-color;
   min-height: $spacing-unit * 1.865;
+  background-color: $head-foot-color;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -106,8 +106,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 0.2rem solid $orange-color;
   padding: $spacing-unit 0;
+  background-color: $head-foot-color;
 }
 
 .footer-heading {

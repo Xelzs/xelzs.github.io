@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.axelsimonet.fr" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: axel-simonet
-github_username:  Xelzs
+github_username: Xelzs
 header_pages: 
   - title: "A propos"
     url: https://axelsimonet.fr/#home
@@ -30,6 +30,9 @@ header_pages:
   - title: "Me contacter"
     url: https://axelsimonet.fr/#contact
     target: true
+
+minima:
+  date_format: "%d/%m/%Y"
 
 # Build settings
 markdown: kramdown
