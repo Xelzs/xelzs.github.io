@@ -7,7 +7,10 @@
   background-color: $head-foot-color;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
 }
 
 .site-title {
@@ -188,6 +191,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  margin-top: $spacing-unit * 1.865;
 }
 
 .page-heading {
