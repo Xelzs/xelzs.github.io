@@ -32,6 +32,8 @@ header_pages:
     url: https://axelsimonet.fr/#contact
     target: true
 
+google_analytics: UA-139407954-2
+
 minima:
   date_format: "%d/%m/%Y"
 
