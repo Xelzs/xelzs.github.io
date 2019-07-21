@@ -21,10 +21,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: darken($home-color, 2%);
+  transition: color 0.2s ease;
 
-  &,
-  &:visited {
-    color: $grey-color-dark;
+  &:hover{
+    color: darken($home-color, 15%);
   }
 }
 
@@ -41,7 +42,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: darken($home-color, 7%);
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -114,10 +115,19 @@
   padding: 0.8rem 0;
   background-color: $head-foot-color;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+
+  a{
+    color: lighten($grey-color, 50%);
+
+    &:hover{
+      color: lighten($grey-color, 40%);
+    }
+  }
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
+  color: $home-color;
 }
 
 .contact-list,
@@ -129,7 +139,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: lighten($grey-color, 30%);
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -184,15 +194,44 @@
     align-items: center;
     justify-content: center;
   }
+
+  .footer-heading{
+    text-align: center;
+  }
+
+  .social-media-list {
+    margin-top: 0.5rem;
+  }
 }
 
 
 
 /**
+ * Home page
+ */
+.home, .post {
+  margin-right: $spacing-unit + 50;
+  margin-left: $spacing-unit + 50;
+  padding: 35px 40px;
+  background-color: $home-color;
+  min-height: 78vh;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+
+  @include media-query(1200px) {
+    margin-right: $spacing-unit;
+    margin-left: $spacing-unit;
+  }
+}
+
+.rss-subscribe{
+  margin: 0;
+}
+
+/**
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 0;
   flex: 1;
   margin-top: $spacing-unit * 1.865;
 }
@@ -220,8 +259,7 @@
 }
 
 .post-link {
-  display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.4);
 }
 
 
