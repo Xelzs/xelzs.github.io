@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Première fonctionnalité en production"
-date:   2019-05-16 19:00:00 +0200
+date:   2019-04-30 12:00:00 +0200
 categories: stage digikare
 ---
 
@@ -29,4 +29,4 @@ C'est donc la semaine du 15 mai 2019 que ma première "vraie" fonctionnalité a 
 
 Cette mission m'a apporté la satisfaction et le plaisir de développer pour des utilisateurs finaux tels que les chirurgiens d'Orthense.  
 La reconnaissance d'autres développeurs, même à titre modeste, m'a permis également de conserver cette motivation de développer à leur côté.
-Ma prochaine mission sera un gros chantier sur cette même application, et donc également un développement qui ira à termes en production. 
+Pour la prochaine étape de mon stage, je vais réalisé une extraction de composant Angular en code HTML/CSS/JavaScript.

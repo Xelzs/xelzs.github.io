@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Refonte d'une application interne"
-date:   2019-04-30 12:00:00 +0200
+date:   2019-04-21 09:12:52 +0200
 categories: stage digikare
 ---
 Cet article fait parti de la suite d'articles sur le retour de mon expérience au sein du stage alterné que j'ai réalisé chez l'entreprise Digikare présenté sur [cette page]({% link enterprises.md %}).
