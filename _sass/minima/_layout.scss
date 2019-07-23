@@ -55,10 +55,10 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    background-color: #1565c0 ;
     border-radius: 5px;
     text-align: right;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
 
     label[for="nav-trigger"] {
       display: block;
@@ -79,7 +79,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $home-color;
       }
     }
 
@@ -220,6 +220,13 @@
   @include media-query(1200px) {
     margin-right: $spacing-unit;
     margin-left: $spacing-unit;
+  }
+}
+
+.post{
+  @include media-query($on-palm) {
+    margin-right: 5px;
+    margin-left: 5px;
   }
 }
 
