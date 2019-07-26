@@ -11,6 +11,9 @@ J'ai effectué ce stage sur une période de 6 mois en suivant un rythme alterné
 
 ___
 
+
+![digikare_logo](/assets/images/digikare.png)
+
 ## Premier jour
 
 Pour le premier jour de ce stage, afin de tester mes compétences, je me suis chargé de la correction et de la refonte front-end d'un site via de l'HTML, du CSS, et le système de templates JavaScript EJS.
@@ -22,7 +25,7 @@ Cependant cette première journée m'a inquiété sur un point : je ne souhaitai
 
 ## La découverte d'Angular
 
-À la fin de cette journée, j'ai donc fait part de mes attentes à mon maître de stage, M. Guérot.  
+![angular_logo](/assets/images/angular.png) À la fin de cette journée, j'ai donc fait part de mes attentes à mon maître de stage, M. Guérot.  
 Il a été très compréhensif envers ces attentes et a donc décidé de m'apprendre à maîtriser le framework Angular qui est utilisé majoritairement dans leurs différentes applications.  
 
 Le sujet choisi a été le développement d'un CRUD "amélioré" qui fera l'objet du prochain article.

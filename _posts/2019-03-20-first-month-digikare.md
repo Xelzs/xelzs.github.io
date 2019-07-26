@@ -16,7 +16,7 @@ Le sujet de développement était donc le "classique" CRUD (Create Read Update D
 En effet, j'ai développé une gestion d'élément : il faut donc les ajouter, les modifier, les supprimer ainsi que les afficher.  
 J'ai découvert le principe du lazy loading d'Angular, mis en place un système de traduction (français-anglais) et utiliser les composants graphiques d'Angular Material.  
 
-Puis j'ai également eu l'occasion de traiter les appels à une api distante, et d'effectuer des traitements dynamiques à l'aide d'RxJS.
+![rxjs_logo](/assets/images/rxjs.png) Puis j'ai également eu l'occasion de traiter les appels à une api distante, et d'effectuer des traitements dynamiques à l'aide d'RxJS.
 
 ## La première mission
 
@@ -25,7 +25,7 @@ Lorsque M. Guérot (Digikare) a jugé que je possédais les compétences requise
 Ce composant était donc la création d'un textarea (zone de texte), dans laquelle l'utilisateur rédigé le contenu en format markdown et où il fallait ajouter une fonctionnalité d'envoi automatique d'images sur le serveur.  
 Je devais donc rendre possible le glisser-déposer ou copier-coller d'une image dans cette zone, l'envoyer à une API en Node.JS (dont j'ai réalisé la fonctionnalité), puis l'API devait retourner une URL permettant l'accès à cette image et l'afficher automatiquement dans le textarea au bon emplacement.  
 
-Cette fonctionnalité m'a permis de mettre en avant les compétences que j'avais acquises en Angular et de réaliser également une partie du développement au niveau back-end à l'aide de Node.JS (le framework Nest.js a été utilisé).  
+Cette fonctionnalité m'a permis de mettre en avant les compétences que j'avais acquises en Angular et de réaliser également une partie du développement au niveau back-end à l'aide de Node.JS (le framework Nest.js a été utilisé). ![nodejs_logo](/assets/images/nodejs.png)  
 La réalisation de cette tâche a environ duré 2 semaines.
 
 ## 2 nouvelles compétences en seulement 1 mois !
