@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Digikare - Stage alterné Développeur Web - Févr. 2019 - Juil. 2019
+# Digikare - Stage alterné Développeur Web - Févr. 2019 / Juil. 2019
 
 ___
 
