@@ -26,6 +26,8 @@ header_pages:
   - title: "A propos"
     url: https://axelsimonet.fr/#home
     target: true
+  - title: "Articles"
+    url: /
   - title: "Entreprises"
     url: /enterprises
   - title: "Me contacter"

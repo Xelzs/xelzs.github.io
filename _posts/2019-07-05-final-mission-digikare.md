@@ -12,16 +12,16 @@ ___
 ## La dernière mission
 
 Pour ces 2 dernières semaines et suite à ma "grosse" mission de suppression d'un framework, j'obtiens donc 2 composants à repenser.  
-Le premier est un tableau ou une donnée est manquante et il faut pouvoir la faire "remonter" de l'API afin de l'afficher sur l'interface de l'utilisateur.  
+Le premier est un tableau où une donnée est manquante et il faut pouvoir la faire "remonter" de l'API afin de l'afficher sur l'interface de l'utilisateur.  
 La difficulté est donc de parcourir l'API Node.JS de cette application, de s'y familiariser et d'ajouter la fonctionnalité.  
-De plus, un réarrangement des colonnes et des diverses tailles affectées à ces colonnes à dû être mis en place.
+De plus, une réorganisation des colonnes et des diverses tailles affectées à ces colonnes a dû être mise en place.
 
 ## Une dernière fonctionnalité
 
-Le second composant est donc une fonctionnalité à réimplémenter. En effet une timeline permettant de visualiser différentes informations est disponible sur l'application Orthense, cependant lorsque le nombre d'information est trop grand, la vue mobile se retrouve "entassée" et on ne peux plus visualiser les informations essentielles.  
-Pour ce faire, j'ai détourné (suite à l'idée de M. Guérot) l'utilisation des mat-tabs d'Angular Material pour en réaliser une timeline. Ainsi des modifications au niveau du style on été effectuée et la vue sur mobile a pu être rétablie.
+Le second composant est donc une fonctionnalité à réimplémenter. En effet une timeline permettant de visualiser différentes informations est disponible sur l'application Orthense, cependant lorsque le nombre d'informations est trop grand, la vue mobile se retrouve "entassée" et on ne peux plus visualiser les informations essentielles.  
+Pour ce faire, j'ai détourné (suite à l'idée de M. Guérot) l'utilisation des mat-tabs d'Angular Material pour en réaliser une timeline. Ainsi des modifications au niveau du style ont été effectuées et la vue sur mobile a pu être rétablie.
 
 ## Bilan
 
-Ces 2 fonctionnalités m'ont permis d'améliorer une nouvelle fois ma pratique d'Angular et de mettre en place une certaine rigueur syntaxique au niveau du code JavaScript / TypeScript réalisé.  
+Ces 2 fonctionnalités m'ont servi une nouvelle fois à approfrondir ma pratique d'Angular et m'ont aidé à mettre en place une certaine rigueur syntaxique au niveau du code JavaScript / TypeScript réalisé.  
 Mon dernier article à propos de ce stage réalisé au sein de Digikare traitera de mon bilan de stage.

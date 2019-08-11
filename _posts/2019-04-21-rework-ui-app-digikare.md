@@ -10,8 +10,8 @@ ___
 
 ## L'application
 
-Ma seconde mission est donc de réaliser une refonte complète d'une application interne. Un développeur avait débuté son développement cependant l'en avais abandonné.  
-J'ai donc repris le développement actif, je me suis basé sur le code existant et ainsi produis une nouvelle UI.
+Ma seconde mission est donc de réaliser une refonte complète d'une application interne. Un développeur avait débuté son développement cependant le projet a été mis de côté.  
+J'ai donc repris le développement actif, je me suis basé sur le code existant et ainsi produit une nouvelle UI.
 
 ## L'UI
 
@@ -32,10 +32,10 @@ De plus, j'ai appris à travers mes 2 premières missions comment fonctionnait l
 
 Après un développement plutôt long, j'ai pu effectuer une démonstration aux différentes personnes concernées par l'utilisation de cette application.  
 Leurs retours ont été plutôt positifs, retours très importants lors d'un développement d'un produit à destination directe d'utilisateurs.  
-Cela m'a permis d'améliorer ce qu'il devait l'être et ainsi réalisé un produit complet pour l'utilisateur final.
+Cela m'a permis d'améliorer ce qui devait l'être et ainsi réaliser un produit complet pour l'utilisateur final.
 
 ## Bilan 
 
-Cette mission fût longue sur la durée mais m'a permis d'approfondir ma maîtrise des différentes compétences acquises au cours de ce stage.  
+Cette mission fût longue sur la durée mais elle m'a servi à approfondir ma maîtrise des différentes compétences acquises au cours de ce stage.  
 Elle m'a permis également d'améliorer mon autonomie tout en restant en "contact" avec une équipe de développeur prête à m'apporter leur soutient.  
 Ma prochaine mission portera sur une fonctionnalité destinée à l'application disponible directement en production.

@@ -19,14 +19,14 @@ ___
 Pour le premier jour de ce stage, afin de tester mes compétences, je me suis chargé de la correction et de la refonte front-end d'un site via de l'HTML, du CSS, et le système de templates JavaScript EJS.
 
 Les premières corrections à effectuer étaient de simples bugs graphiques tandis que d'autres étaient de nouvelles fonctionnalités à développer.  
-Par exemple, j'ai dû me concentrer sur la version "imprimante" d'une page contenant beaucoup de composants destinés à l'impression.
+Par exemple, j'ai dû me concentrer sur la version pour "imprimante" d'une page contenant beaucoup de composants destinés à l'impression.
 
 Cependant cette première journée m'a inquiété sur un point : je ne souhaitais pas faire du simple "HTML / CSS" au cours de ce stage mais je voulais aller plus loin.  
 
 ## La découverte d'Angular
 
 ![angular_logo](/assets/images/angular.png) À la fin de cette journée, j'ai donc fait part de mes attentes à mon maître de stage, M. Guérot.  
-Il a été très compréhensif envers ces attentes et a donc décidé de m'apprendre à maîtriser le framework Angular qui est utilisé majoritairement dans leurs différentes applications.  
+Il a été très compréhensif envers elles et a donc décidé de m'apprendre à maîtriser le framework Angular qui est utilisé majoritairement dans leurs différentes applications.  
 
 Le sujet choisi a été le développement d'un CRUD "amélioré" qui fera l'objet du prochain article.
 
@@ -41,5 +41,5 @@ Ainsi j'ai pu avoir un aperçu des différentes possibilités qu'offrait cette i
 
 ## Premier bilan
 
-Au cours de cette semaine, j'ai donc pu faire la connaissance de l'équipe qui compose Digikare et me familiariser avec leur environnement de développement.  
-Du point de vue technique, j'ai débuté le développement dans cette entreprise avec des compétences déjà acquises et très vite je me suis redirigé vers de nouvelles compétences et de l'inconnu. C'est ce qui me motive à travailler chez Digikare, apprendre de nouvelles choses et aller au-delà de ma formation.
+Pour ce début de stage, j'ai donc pu faire la connaissance de l'équipe qui compose Digikare et me familiariser avec leur environnement de développement.  
+Du point de vue technique, j'ai débuté le développement dans cette entreprise avec des compétences déjà acquises et très vite je me suis redirigé vers de nouvelles compétences. C'est ce qui me motive à travailler chez Digikare, apprendre de nouvelles choses et aller au-delà de ma formation.
