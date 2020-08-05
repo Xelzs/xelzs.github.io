@@ -1,6 +1,26 @@
 ---
 layout: page
 ---
+# Madelink - Stage alterné Développeur Web & Docker - Déc. 2019 / Fév. 2020
+
+___
+
+## L'entreprise
+
+Madelink est une start-up travaillant dans le domaine de l'informatique.  
+L'entreprise propose une solution d'e-learning à destination des personnels de santé.
+
+La société n'ayant pas de locaux définis su Toulouse, j'ai effectué mon stage au sein de l'école Toulouse Ynov Campus situé au 22 impasse Charles Fourier, 31200 Toulouse.
+
+## Environnement de travail / Contexte
+
+J'ai réalisé un stage alterné d'une durée de 3 mois au sein de Madelink.  
+Mon rôle était Développeur Web et également Administrateur Docker. J'ai réalisé diverses missions regroupant plusieurs technologies notamment : Docker / Conductor / Angular / Nest.JS / Node.JS / HTML / CSS / JavaScript / SASS.  
+J'étais entouré d'un autre stagiaire qui était également dans ma promotion et s'occuper essentiellement du développement front-end de l'application ainsi que de la réalisation de maquettes.  
+
+Mon Maître de stage était le directeur de l'entreprise, M. Emeric LEBON.
+
+<br/>
 # Digikare - Stage alterné Développeur Web - Févr. 2019 / Juil. 2019
 
 ___

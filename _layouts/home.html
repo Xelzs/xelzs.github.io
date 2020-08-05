@@ -10,9 +10,15 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+      {%- if post.title == "Bilan de mon premier stage !" -%}
+        <li>
+          Année 2018 / 2019
+          <hr>
+        </li>
+      {%- endif -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
