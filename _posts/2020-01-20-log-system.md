@@ -9,18 +9,18 @@ Cet article fait parti de la suite d'articles sur le retour de mon expérience a
 ___
 
 
-## Introduction
+## Nouvelle mission
 
-Pour cette première semaine au sein de Madelink, j'ai pu rencontrer l'équipe technique réalisant la solution informatique d'e-learning.  
-Etant intéressé par les différents aspects de l'informatique que sont l'infrastructure et le développement web, j'ai découvert ainsi l'étendu des solutions mises en oeuvre pour réaliser cette plateforme et me rendre compte des différentes technologies nécessaire à son bon fonctionnement.
+Suite à la résolution du problème d'espace disque, Madelink m'a attribué une toute autre mission.  
+En effet, j'ai quitté le domaine de l'infrastructure pour me rediriger vers du développement.  
+Dans cette mission je me suis occupé de mettre en place un système de logging commun pour leurs différentes APIs.
 
-## L'infrastructure
+## Le système
 
-Afin d'être rapidement opérationnel et utile à la société, j'ai appris l'une des technologies qu'ils utilisent, openshift.  
-Cet outil crée par Red Hat m'étais jusqu'alors totalement inconnu. 
-Avec cet outil j'ai appris une nouvelle notion : les images S2I (Source-to-Image).  
-Puis en poursuivant "l'état des lieux" de son infrastructure, M. LEBON (Maître de stage), a soulevé un problème grandissant au sein de son infrastructure : le manque d'espace disque.  
+La principale difficulté dans la création et la mise en place de ce système a été l'apprentissage des différents codes déjà en place par Madelink.  
+En effet, il me fallait rajouter partout où je le pouvais des "traces", des logs, du parcours de l'information au sein des différents micro-services et APIs utilisés par l'entreprise.  
+J'ai adopté un format conclus avec mon maître de stage et j'ai crée mon propre système réalisé en Nest.JS (Framework Node.JS).
 
-## Bilan / Premier objectif
+## Bilan
 
-Après cette première semaine à découvrir l'infrastructure et suite à l'apprentissage de nouvelles notions telles qu'OpenShift et les images S2I, ma première mission au sein de l'entreprise s'est dessiné : trouver une solution au problème d'espace disque.  
+Une nouvelle mission réussie avec succès au sein de Madelink. J'ai pu observé depuis le début de ce stage une amélioration de ma capacité à comprendre et m'intégrer lors des réunions organisés par l'équipe.
