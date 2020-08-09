@@ -9,18 +9,18 @@ Cet article fait parti de la suite d'articles sur le retour de mon expérience a
 ___
 
 
-## Nouvelle mission
+## Mon avis personnel
 
-Suite à la résolution du problème d'espace disque, Madelink m'a attribué une toute autre mission.  
-En effet, j'ai quitté le domaine de l'infrastructure pour me rediriger vers du développement.  
-Dans cette mission je me suis occupé de mettre en place un système de logging commun pour leurs différentes APIs.
+Tout au long de ce stage mes compétences auront été mises à l'épreuve à travers la réalisation de diverses missions.  
+En effet, grâce à Madelink j'aurai réussi à travailler sur des domaines différents que sont l'infrastructure et le développement front-end et back-end, qui m'auront permis d'apprendre et découvrir de nouvelles notions telles que la gestion d'une infrastructure de type micro-services ou encore la gestion de CorrelationID.
 
-## Le système
+J'aurai été entouré d'une équipe très ouverte qui aura su m'aider quand j'en ressentais le besoin.
 
-La principale difficulté dans la création et la mise en place de ce système a été l'apprentissage des différents codes déjà en place par Madelink.  
-En effet, il me fallait rajouter partout où je le pouvais des "traces", des logs, du parcours de l'information au sein des différents micro-services et APIs utilisés par l'entreprise.  
-J'ai adopté un format conclus avec mon maître de stage et j'ai crée mon propre système réalisé en Nest.JS (Framework Node.JS).
+A travers ce second stage j'aurai découvert de nouvelles méthodes de travail, une nouvelle entreprise, et je suis prêt à intégrer une nouvelle équipe afin de développer mes compétences, tout en sachant qu'encore de nombreuses technologies et méthodologies me sont inconnues.
 
-## Bilan
+## Conclusion
 
-Une nouvelle mission réussie avec succès au sein de Madelink. J'ai pu observé depuis le début de ce stage une amélioration de ma capacité à comprendre et m'intégrer lors des réunions organisés par l'équipe.
+Je tiens à remercier particulièrement l'équipe de Madelink de son écoute et de son soutien.  
+Elle m'a permis d'acquérir une expérience professionnelle enrichissante et d'améliorer mes compétences déjà acquises tout en apprenant de nouvelles notions qui me seront utiles dans ma vie professionnelle.
+
+Afin de compléter mon expérience professionnelle de l'année 2019 / 2020, j'ai réalisé en tant qu'Auto-Entrepreneur une mission pour un client qui va vous être expliqué dans les articles suivants.
