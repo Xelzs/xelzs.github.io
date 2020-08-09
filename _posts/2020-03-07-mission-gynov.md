@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mission : Réaliser un site de gestion de ressources matérielles"
+title:  "Mission : Réaliser un site de gestion de ressources matérielles (1/2)"
 date:   2020-03-07 11:00:00 +0200
 categories: mission gynov
 ---
