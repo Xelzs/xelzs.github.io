@@ -12,6 +12,10 @@ layout: default
   {%- if site.posts.size > 0 -%}
   <h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2>
   <ul class="post-list">
+    <li>
+      Année 2019 / 2020
+      <hr>
+    </li>
     {%- for post in site.posts -%}
       {%- if post.title == "Bilan de mon premier stage !" -%}
         <li>
